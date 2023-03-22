@@ -32,6 +32,15 @@ The code includes predefined positions for the legs that are defined as arrays. 
 
 The main function of the code is to move the legs of the robot in a coordinated way to achieve walking and climbing movements. The code also includes a function to make the robot stand still.
 
+## Example
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226982013-9dd02473-be33-4dba-83c7-885851e811cd.jpg" width="500">
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226982023-108d1bb8-cd2b-47ae-ad01-7a92e8fdfb90.jpg" width="500">
+</p>
+
 ## License
 
 This program is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

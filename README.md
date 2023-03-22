@@ -6,7 +6,7 @@ The robot's movement is controlled by changing the position of its four servos. 
 
 The ultrasonic sensor is used to detect obstacles and prevent the robot from colliding with them. The code includes functions to read the sensor's data and calculate the distance to the nearest obstacle. If an obstacle is detected, the robot stops and waits for a few milliseconds before continuing its movement.
 
-Developed from [Quadruped_Robot_Control](https://github.com/Thanyasit/Quadruped_Robot_Control) <b>2019</b>
+Developed from [Quadruped_Robot_Control](https://github.com/Thanyasit/Quadruped_Robot_Control) for ABU Robot Contest Thailand Championship 2019
 
 ## Hardware Requirements
 - Arduino Mega board
